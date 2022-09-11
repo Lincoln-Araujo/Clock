@@ -116,3 +116,13 @@ document.getElementById("day-of-the-week").innerHTML = week[day.getDay()];
 document.getElementById("month").innerHTML = month;
 
 document.getElementById("day-of-month").innerHTML = dayMonth;
+
+const softwareDeveloper = {
+
+    name: "Lincoln Araujo",
+
+    stack: "Front-end",
+
+    hobbies: ['games','anime','hiking','gym']
+
+}
