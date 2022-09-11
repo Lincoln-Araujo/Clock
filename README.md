@@ -17,7 +17,7 @@ A clock that allows the user switch between a digital and analogic layout. It co
 
 - Semantic HTML5 markup
 
-- CSS custom properties
+- SASS / CSS
 
 - Flexbox
 
