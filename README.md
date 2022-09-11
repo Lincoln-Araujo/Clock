@@ -2,7 +2,9 @@
 
 ##### This project was developed in a partnership between [Renard Bergson](https://github.com/renardbergson) and [Lincoln Araujo](https://github.com/Lincoln-Araujo).
 
-<strong>DESCRIPTION<strong> A clock that allows the user switch between a digital and analogic layout. It counts with a calendar and buttons to switch both layouts and the background changes according to the hour of the day.
+<strong>DESCRIPTION:<strong> 
+
+A clock that allows the user switch between a digital and analogic layout. It counts with a calendar and buttons to switch both layouts and the background changes according to the hour of the day.
 
 <a href="https://lincoln-araujo.github.io/Clock/" target="_blank"><img src="./images/presentation.gif" ></a>
 
